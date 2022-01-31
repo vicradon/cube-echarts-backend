@@ -6,6 +6,7 @@
     "node": ">=0.12"
   },
   "scripts": {
+    "start": "cubejs-server",
     "dev": "cubejs-server"
   },
   "template": "docker",
